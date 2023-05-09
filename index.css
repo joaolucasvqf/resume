@@ -44,6 +44,9 @@ a:focus {
     max-width: 250px;
     background: #000;
     transition: all 0.3s;
+    height: 100vh;
+    position: sticky;
+    top: 0;
 }
 
 #sidebar.active {
